@@ -1,6 +1,3 @@
-import sys
-import time
-
 def case(orig_func):
 	def wrapper(*args,**kwargs):
 		cases=int(input())
