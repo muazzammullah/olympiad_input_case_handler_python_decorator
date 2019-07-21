@@ -1,4 +1,4 @@
-# olympiad_input_case_handler_python_decorator
+## olympiad style python test case handler
 Python Decorator to help handle test cases in olympiad questions.
 
 Just get the decorator and add @case to the function you want to handle input for.the decorator injects an array argument into the decorated function
